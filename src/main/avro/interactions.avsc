@@ -1,0 +1,9 @@
+{
+    "namespace": "com.danosipov.example",
+    "type": "record",
+    "name": "Interaction",
+    "fields": [
+        {"name": "userid", "type": "string"},
+        {"name": "interactions", "type": "bytes"}
+    ]
+}
